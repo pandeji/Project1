@@ -1,4 +1,4 @@
-package WebUtility_FinalAssignment_9_to_12.Page;
+package Project1_WebUtility;
 
 import java.time.Duration;
 

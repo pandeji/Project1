@@ -8,7 +8,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-import WebUtility_FinalAssignment_9_to_12.Page.WebUtility;
+import Project1_WebUtility.WebUtility;
 
 public class Project1 extends Project1Or {
  
